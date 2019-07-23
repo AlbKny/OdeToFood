@@ -1,0 +1,9 @@
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
