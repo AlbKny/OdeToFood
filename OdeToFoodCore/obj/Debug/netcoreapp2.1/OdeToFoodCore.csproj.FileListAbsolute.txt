@@ -38,3 +38,6 @@ C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\bin\Debug\netco
 C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.g.cshtml.cs
 C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.g.cshtml.cs
 C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.g.cshtml.cs
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.g.cshtml.cs
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.g.cshtml.cs
+C:\Users\alber\Desktop\programowanie\OdeToFoodCore\OdeToFoodCore\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.g.cshtml.cs
